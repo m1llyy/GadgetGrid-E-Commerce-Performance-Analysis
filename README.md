@@ -1,4 +1,4 @@
-# NovaTech-E-Commerce-Performance-Analysis
+# GadgetGrid-E-Commerce-Performance-Analysis
 Sales trend for ecommerce company
 
 # Overview
