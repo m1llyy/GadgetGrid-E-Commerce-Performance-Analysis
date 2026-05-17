@@ -10,7 +10,14 @@ Founded in 2018, GadgetGrid is a global e-commerce company specializing in elect
 
 To support strategic decisions across finance, sales, product, and marketing, transactional data spanning 2019–2022 was analyzed to surface insights into revenue trends, product performance, and customer purchasing behavior.
 
-## NorthStar Metrics
+## North Star Metric
+GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Supporting metrics include:
+<li> <b>Order Volume</b> - total transactions placed. </li>
+<li> <b>Average Order Value</b> - proportion of orders with a recorded return, serving as a customer satisfaction and product quality signal </li>
+<li> <b>Time to Ship / Deliver</b> - derived from purchase date, ship date, and deliver date, reflecting operational efficiency. </li>
+
+
+## Areas of Analysis
 <li> <b> Sales Trends </b> - Examining revenue, order volume, and average order value (AOV) across 2019-2022 to identify growth patterns and post-pandemic demand shifts. </li>
 <li> <b> Product Performance </b> - Analyzing performance across the core product catalog to understand which products drive the most revenue and where refund rates are highest. </li>
 <li> <b> Regional Performance </b> - Evaluating purchasing behavior across 194 countries to surface regional demand patterns and opportunities for improvement. </li>
@@ -18,15 +25,17 @@ To support strategic decisions across finance, sales, product, and marketing, tr
 <li> <b> Marketing Channel Effectiveness </b> - Channel contribution to revenue, growth trends, and performance by acquisition source. </li>
 <br />
 
-
-<details open>
-  <summary>Key Terminology</summary>
-  <br />
-  
+<details>
+  <summary>Table of Content</summary>
 </details>
 
+<br />
+
 # Overview
-## ERD
+## Executive Summary
+
+
+## Dataset Structure
 <img alt="image" src="https://github.com/user-attachments/assets/83ebf555-ba84-4227-b774-54d358ac6caf" />
 
 
@@ -35,3 +44,5 @@ To support strategic decisions across finance, sales, product, and marketing, tr
 ## Product Trends
 ## Loyalty Program
 ## Refund Rates
+
+# Recommendations
