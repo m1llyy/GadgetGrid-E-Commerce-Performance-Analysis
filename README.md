@@ -20,7 +20,7 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 ## Areas of Analysis
 <li> <b> Sales Trends </b> - Examining revenue, order volume, and average order value (AOV) across 2019-2022 to identify growth patterns and post-pandemic demand shifts. </li>
 <li> <b> Product Performance </b> - Analyzing performance across the core product catalog to understand which products drive the most revenue and where refund rates are highest. </li>
-<li> <b> Regional Performance </b> - Evaluating purchasing behavior across 194 countries to surface regional demand patterns and opportunities for improvement. </li>
+<li> <b> Geographical Performance </b> - Evaluating purchasing behavior across 194 countries to surface regional demand patterns and opportunities for improvement. </li>
 <li> <b> Loyalty Program </b> - Program adoption, member vs. non-member purchasing behavior and retention analysis. </li>
 <li> <b> Marketing Channel Effectiveness </b> - Channel contribution to revenue, growth trends, and performance by acquisition source. </li>
 <br />
@@ -33,7 +33,7 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 
 # Overview
 ## Executive Summary
-
+2019 and 2022 had about the same in terms of AOV, but 2022 has about 1 mil more in total sales. Overall, everyone had an increase around march 2020
 
 ## Dataset Structure
 <img alt="image" src="https://github.com/user-attachments/assets/83ebf555-ba84-4227-b774-54d358ac6caf" />
@@ -41,8 +41,20 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 
 # Deep Dive Insights
 ## Sales Trends
+2020 & 2021 had the strongest increase in terms of total sales, order count and AOV. 
+
+
 ## Product Trends
-## Loyalty Program
+best performing product was the monitor and the worst was the bose. This could be because its more versatile and it was the only monitor product they had compared to different laptops / headphones. But the bose had the lowest total sales bc its also the cheapest product
+
 ## Refund Rates
+laptops had the highest refund rate. bose headphones had the lowest. 2022 had the lowest overall return rate
+
+## Geographical Performance
+US highest performer in terms of countries. NA highest in terms of region followed by EMEA
+
+## Loyalty Program
+for aov, 3/4 years loyalty didn’t perform as well as non loyalty. Maybe this is the case if loyalty members are getting higher discounts/ rewards? It seems like an upward trend - where they are purchasing more orders, and more expensive orders. I would recommend keeping at least for a year to see if the trends shift
+
 
 # Recommendations
