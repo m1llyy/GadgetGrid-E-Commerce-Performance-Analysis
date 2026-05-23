@@ -43,8 +43,9 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 ## Sales Trends
 ![Sales Summary Stats](./assets/stats-banner.svg)
 
-2020 & 2021 had the strongest increase in terms of total sales, order count and AOV. 2019 and 2022 had about the same in terms of AOV, but 2022 has about 1 mil more in total sales. Overall, everyone had an increase around march 2020
-
+- <b> Pre-COVID (2019) </b>: Established baseline of $3.9M in sales across 16.8K orders with an AOV of $230.
+- <b> COVID (2020) </b>: Order volume doubled to 33.8K with AOV peaking at $300, reflecting a shift towards higher-ticket purchases.
+- <b> Post-COVID (2021-2022) </b>: While sales in 2021 remained high, there was a steady decline with an AOV of $255. In 2022, sales declined 52% from peak, normalizing towards pre-pandemic levels with $5M in sales and an AOV of $230.   
 
 <img alt="image" src="https://github.com/user-attachments/assets/28329376-4658-4f11-9bcd-1094b8f228a4" />
 
