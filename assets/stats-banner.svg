@@ -6,7 +6,7 @@
 
   <rect x="172" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
   <text x="186" y="26" font-family="sans-serif" font-size="12" fill="#999">Total orders</text>
-  <text x="186" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">107,933</text>
+  <text x="186" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">108.1K</text>
 
   <rect x="344" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
   <text x="358" y="26" font-family="sans-serif" font-size="12" fill="#999">Peak year sales</text>
