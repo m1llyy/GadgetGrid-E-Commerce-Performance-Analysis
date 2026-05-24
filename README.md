@@ -50,6 +50,12 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 <img alt="image" src="https://github.com/user-attachments/assets/28329376-4658-4f11-9bcd-1094b8f228a4" />
 
 
+## Seasonality Trends
+- Best Perfoming Months: September, November, and December are consistently strong performing.
+- December was the highest performing month across all four years, likely driven by holiday gift purchasing. December 2020 was the single highest-revenue month in the dataset at $1.25M which is roughly 3x the December 2019 figure.
+- A secondary mid-year peak was observed in September-OCtober across 2020-2021, potentially signfying back to school and early procurement. This pattern is consistent with product mixture (laptop, monitor, headphones) which skews towards academic and professional usage. 
+- Worst Performing Months: Feburary is around the lowest or near lowest every year. 
+<img alt="image" src="https://github.com/user-attachments/assets/d6ae3278-9fe5-41e6-98a1-f303e47c4ed2" />
 
 
 ## Product Trends
