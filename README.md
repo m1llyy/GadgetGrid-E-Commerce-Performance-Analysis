@@ -32,6 +32,7 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
   - [Sales Trends](#sales-trends)
   - [Seasonality Trends](#seasonality-trends)
   - [Product Trends](#product-trends)
+      - [Refund Rates](#refund-rates)
   - [Geographic Performance](#geographic-performance)
   - [Loyalty Program](#loyalty-program)
   - [Marketing Channel Effectiveness](#marketing-channel-effectiveness)
