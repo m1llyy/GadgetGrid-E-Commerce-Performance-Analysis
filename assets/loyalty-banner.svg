@@ -1,18 +1,18 @@
-<svg width="100%" viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 750 120" role="img" xmlns="http://www.w3.org/2000/svg">
 
   <rect x="0" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
   <text x="14" y="26" font-family="sans-serif" font-size="12" fill="#999">Loyalty Members (total)</text>
   <text x="14" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">45K</text>
   <text x="14" y="90" font-family="sans-serif" font-size="11" fill="#777">42% of orders</text>
 
-  <rect x="172" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
-  <text x="186" y="26" font-family="sans-serif" font-size="12" fill="#999">Non-member AOV 2020</text>
-  <text x="186" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">$346</text>
-  <text x="186" y="90" font-family="sans-serif" font-size="11" fill="#E5534B">vs $228 member</text>
+  <rect x="260" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
+  <text x="274" y="26" font-family="sans-serif" font-size="12" fill="#999">Non-member AOV 2020</text>
+  <text x="274" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">$346</text>
+  <text x="274" y="90" font-family="sans-serif" font-size="11" fill="#E5534B">vs $228 member</text>
 
-  <rect x="344" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
-  <text x="358" y="26" font-family="sans-serif" font-size="12" fill="#999">Member AOV 2022</text>
-  <text x="358" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">$245</text>
-  <text x="358" y="90" font-family="sans-serif" font-size="11" fill="#2DA44E">vs $215 non-member</text>
+  <rect x="520" y="0" width="163" height="110" rx="8" fill="#1e1e1e"/>
+  <text x="534" y="26" font-family="sans-serif" font-size="12" fill="#999">Member AOV 2022</text>
+  <text x="534" y="72" font-family="sans-serif" font-size="24" font-weight="600" fill="#ffffff">$245</text>
+  <text x="534" y="90" font-family="sans-serif" font-size="11" fill="#2DA44E">vs $215 non-member</text>
 
 </svg>
