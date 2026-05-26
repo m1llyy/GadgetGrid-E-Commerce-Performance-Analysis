@@ -1,6 +1,4 @@
 # GadgetGrid-E-Commerce-Performance-Analysis
-Sales trend for ecommerce company
-
 <div align="center">
   <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0e3d6365-38b8-4cfc-919d-7955b8f2b386" />
 </div>
@@ -13,8 +11,9 @@ To support strategic decisions across finance, sales, product, and marketing, tr
 ## North Star Metric
 GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Supporting metrics include:
 <li> <b>Order Volume</b> - total transactions placed. </li>
-<li> <b>Average Order Value</b> - proportion of orders with a recorded return, serving as a customer satisfaction and product quality signal </li>
-<li> <b>Time to Ship / Deliver</b> - derived from purchase date, ship date, and deliver date, reflecting operational efficiency. </li>
+<li> <b>Average Order Value</b> - average spend per transaction. </li>
+<li> <b>Refund Rate</b> — proportion of orders with a recorded return. </li>
+<li> <b>Loyalty Member Share </b> — percentage of orders placed by loyalty members. </li>
 
 
 ## Areas of Analysis
@@ -25,15 +24,27 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 <li> <b> Marketing Channel Effectiveness </b> - Channel contribution to revenue, growth trends, and performance by acquisition source. </li>
 <br />
 
-<details>
-  <summary>Table of Content</summary>
+<details open>
+  <summary>Table of Contents</summary>
+  
+  - [Executive Summary](#executive-summary)
+  - [Dataset](#dataset-structure)
+  - [Sales Trends](#sales-trends)
+  - [Seasonality Trends](#seasonality-trends)
+  - [Product Trends](#product-trends)
+  - [Geographic Performance](#geographic-performance)
+  - [Loyalty Program](#loyalty-program)
+  - [Marketing Channel Effectiveness](#marketing-channel-effectiveness)
+  - [Recommendations](#recommendations)
+    
 </details>
-
 <br />
 
 # Overview
 ## Executive Summary
+This project analyzes four years of e-commerce sales data (2019–2022) for GadgetGrid, a consumer electronics retailer serving 194 countries. Using Excel for data cleaning and exploration, SQL for querying and aggregating the dataset, and Tableau for visualization, the analysis examines sales trends, product performance, geographic performance, loyalty program effectiveness, and marketing channel contribution.
 
+Total sales reached $28.1M across 108K+ orders over the four-year period. The most significant trend was the 163% revenue spike in 2020 driven by pandemic-fueled demand for electronics and WFH peripherals, followed by a normalization back toward pre-COVID levels by 2022. The 27in 4K Monitor and AirPods were the top performing products, together accounting for ~63% of total sales. The loyalty program showed promising maturation with member order share growing from 12% in 2019 to 52% by 2022, and North America remained the dominant region at $14.6M, though demand signals across EMEA, APAC, and LATAM suggest international growth opportunities exist.
 
 ## Dataset Structure
 <img alt="image" src="https://github.com/user-attachments/assets/83ebf555-ba84-4227-b774-54d358ac6caf" />
@@ -65,13 +76,14 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 <img alt="Product Sales by Year" src="https://github.com/user-attachments/assets/26a7325a-5c70-4012-92dc-eb99f9d22223" />
 
 ### Refund Rates
+From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% return rate.
 - <b> Highest Refund Rate </b>: MacBook Air and ThinkPad carried the highest refund rates at 11% and 12%, suggesting a product quality or customer expectation mismatch - notably after their large sales spikes during the pandemic when demand was high and potentially impulse driven.
 - <b> Highest Refund Volume </b>: AirPods had the highest refund volume at 2.6K units, followed by the 27in 4K gaming monitor at 1.4K units.
 - <b> Lowest Refund Volume </b>: Samsung Cable had the cleanest refund rate at 2.4% which is consistent with low-complexity and low-price-point, carrying a lower return risk. 
 
 <img width="923" height="738" alt="refund count" src="https://github.com/user-attachments/assets/7234e9c4-bef3-472f-a32b-4a4a6129da83" />
 
-## Geographical Performance
+## Geographic Performance
 <img width="1216" height="735" alt="Sales by Region" src="https://github.com/user-attachments/assets/6c9e1934-9ab4-48b7-b38a-011d9ff296e0" />
 
 - <b> Top Performing Region</b>: North America was the top region by sales at $14.6M across 56K orders.
@@ -89,5 +101,31 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 
 <img width="1019" height="738" alt="Loyalty Program" src="https://github.com/user-attachments/assets/d6c8e375-6e70-4f20-ae01-007078e95a66" />
 
+## Marketing Channel Effectiveness
+<img alt="image" src="https://github.com/user-attachments/assets/36cf01e1-2b70-480a-b5de-105a0e0bf8a6" />
+
+- <b> Dominant Channel</b>: Direct was the dominant marketing channel with $23.2M in sales and accounts for 83% of total sales. However, this figure warrants scrutiny - an 83% direct attribution rate is unusually high and may reflect gaps in UTM tracking rather than true direct intent. This potentially masks the real contribution of other channels
+- <b> Highest AOV Channel </b>: Affiliate had the highest AOV of $347 in 2020, suggesting affiliate-driven customers tend to make higher-value purchases. This is likely due to product-specific referrals landing users directly on premium items. 
+- <b> Fastest Growing </b>: Email was the fastest growing channel, expanding 5.8x in order volume from 2019 to 2021. With a consistent AOV around $180 and strong volume growth, it represents the most scalable and likely cost-efficient channel.
+
 
 # Recommendations
+
+## Product
+- <b> Reevaluate the Bose Soundsport</b>: With only 27 total orders and $3,339 in sales across four years, the product failed to gain meaningful traction. Given that AirPods dominated the headphone category at 48K orders, the Soundsport may be redundant in the catalog. Discontinuing or replacing it with a more competitive audio product is worth considering.
+ 
+## Loyalty Program
+- <b> Continue the Program for at Least Another Year </b>: Membership grew from 12% to 52% of total orders between 2019 and 2022, and member sales overtook non-member sales by 2021. The trajectory is strong enough to warrant continued investment rather than reassessment. The 2022 data is the first time member AOV ($245) surpassed non-member AOV ($215), suggesting an upward trend in both order frequency and order value among members. However, one year is not enough to confirm this as a structural shift - tracking it for another year would provide us with a better understanding. 
+- <b> Investigate the AOV Gap </b>: For three out of four years, non-members outspent members on a per order basis, which may suggest loyalty members are leveraging rewards or discount or offset the price. Understanding whether the program is driving genuine higher value purchases vs discount-driven ones is important in evaluating its profitability.
+
+## Marketing Channels
+- <b> Invest further in email</b>: Email was the fastest growing channel, expanding 5.8x in order volume from 2019 to 2021. It also maintained a consistent AOV around $180, making it a reliable and likely cost-efficient channel worth scaling.
+
+## Seasonality
+- <b>Double down on Q4 </b>: December is consistently the highest performing month across all four years. Targeted promotions and marketing spend should be concentrated around the holiday season to maximize the demand peak.
+- <b> Address the Q1 slump </b>: February is the weakest month every year. Introducing post-holiday promotions, new year campaigns, or limited-time bundles in January and February could help soften the post holiday dip.
+
+## Geographic Expansion
+- <b> Develop LATAM and APAC further </b>: Both regions showed proportional growth during 2020 consistent with NA and EMEA, which confirms that baseline demand exists. Localized marketing, regional pricing strategies, or partnerships could help convert that latent demand into sustained growth. 
+- <b> Reduce geographic concentration risk </b>: The US accounts for 47% of total sales, meaning overall performance is heavily dependent on a single market. Diversifying revenue across top international markets like GB, CA, JP, and DE would reduce exposure to US-specific demand fluctuations. 
+
