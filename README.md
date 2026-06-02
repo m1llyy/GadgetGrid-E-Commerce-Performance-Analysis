@@ -105,8 +105,8 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 ## Marketing Channel Effectiveness
 <img alt="image" src="https://github.com/user-attachments/assets/36cf01e1-2b70-480a-b5de-105a0e0bf8a6" />
 
-- <b> Dominant Channel</b>: Direct was the dominant marketing channel with $23.2M in sales and accounts for 83% of total sales. However, this figure warrants scrutiny - an 83% direct attribution rate is unusually high and may reflect gaps in UTM tracking rather than true direct intent. This potentially masks the real contribution of other channels
-- <b> Highest AOV Channel </b>: Affiliate had the highest AOV of $347 in 2020, suggesting affiliate-driven customers tend to make higher-value purchases. This is likely due to product-specific referrals landing users directly on premium items. 
+- <b> Dominant Channel</b>: Direct was the dominant marketing channel with $23.2M in sales and accounts for 83% of total sales. However, this figure deserves a closer look - an 83% direct attribution rate is unusually high and may reflect gaps in UTM tracking rather than true direct intent. This potentially masks the real contribution of other channels
+- <b> Highest AOV Channel </b>: Affiliate had the highest AOV of $347 in 2020, suggesting affiliate-driven customers tend to make higher-value purchases and are ready to buy.
 - <b> Fastest Growing </b>: Email was the fastest growing channel, expanding 5.8x in order volume from 2019 to 2021. With a consistent AOV around $180 and strong volume growth, it represents the most scalable and likely cost-efficient channel.
 
 
@@ -116,8 +116,8 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> Reevaluate the Bose Soundsport</b>: With only 27 total orders and $3,339 in sales across four years, the product failed to gain meaningful traction. Given that AirPods dominated the headphone category at 48K orders, the Soundsport may be redundant in the catalog. Discontinuing or replacing it with a more competitive audio product is worth considering.
  
 ## Loyalty Program
-- <b> Continue the Program for at Least Another Year </b>: Membership grew from 12% to 52% of total orders between 2019 and 2022, and member sales overtook non-member sales by 2021. The trajectory is strong enough to warrant continued investment rather than reassessment. The 2022 data is the first time member AOV ($245) surpassed non-member AOV ($215), suggesting an upward trend in both order frequency and order value among members. However, one year is not enough to confirm this as a structural shift - tracking it for another year would provide us with a better understanding. 
-- <b> Investigate the AOV Gap </b>: For three out of four years, non-members outspent members on a per order basis, which may suggest loyalty members are leveraging rewards or discount or offset the price. Understanding whether the program is driving genuine higher value purchases vs discount-driven ones is important in evaluating its profitability.
+- <b> Continue the Program for at Least Another Year </b>: Membership grew from 12% to 52% of total orders between 2019 and 2022, and member sales overtook non-member sales by 2021. For the first time in 2022, members outspent non-members per order. Ultimately, the trajectory is storng but one year isn't a trend yet.
+- <b> Investigate the AOV Gap </b>: For three out of four years, non-members outspent members on a per order basis, which may suggest loyalty members are leveraging rewards or discount or offset the price. It's worth understanding whether members are actually spending more or just using disocunts to pay less. 
 
 ## Marketing Channels
 - <b> Invest further in email</b>: Email was the fastest growing channel, expanding 5.8x in order volume from 2019 to 2021. It also maintained a consistent AOV around $180, making it a reliable and likely cost-efficient channel worth scaling.
@@ -127,6 +127,6 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> Address the Q1 slump </b>: February is the weakest month every year. Introducing post-holiday promotions, new year campaigns, or limited-time bundles in January and February could help soften the post holiday dip.
 
 ## Geographic Expansion
-- <b> Develop LATAM and APAC further </b>: Both regions showed proportional growth during 2020 consistent with NA and EMEA, which confirms that baseline demand exists. Localized marketing, regional pricing strategies, or partnerships could help convert that latent demand into sustained growth. 
+- <b> Develop LATAM and APAC further </b>: Both regions showed proportional growth during 2020 consistent with NA and EMEA. This confirms that baseline demand exists. Localized marketing, regional pricing strategies, or partnerships could help convert that into consistent revenue. 
 - <b> Reduce geographic concentration risk </b>: The US accounts for 47% of total sales, meaning overall performance is heavily dependent on a single market. Diversifying revenue across top international markets like GB, CA, JP, and DE would reduce exposure to US-specific demand fluctuations. 
 
