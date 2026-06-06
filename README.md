@@ -65,16 +65,18 @@ Total sales reached $28.1M across 108K+ orders over the four-year period. The mo
 ## Seasonality Trends
 - Best Perfoming Months: September, November, and December are consistently strong performing.
 - December was the highest performing month across all four years, likely driven by holiday gift purchasing. December 2020 was the single highest-revenue month in the dataset at $1.25M which is roughly 3x the December 2019 figure.
-- A secondary mid-year peak was observed in September-OCtober across 2020-2021, potentially signfying back to school and early procurement. This pattern is consistent with product mixture (laptop, monitor, headphones) which skews towards academic and professional usage. 
+- A secondary mid-year peak was observed in September-October across 2020-2021, potentially signfying back to school and early procurement. This pattern is consistent with product mixture (laptop, monitor, headphones) which skews towards academic and professional usage. 
 - Worst Performing Months: Feburary is around the lowest or near lowest every year, suggesting a post-holiday hangover. 
-<img alt="image" src="https://github.com/user-attachments/assets/d6ae3278-9fe5-41e6-98a1-f303e47c4ed2" />
+<!-- <img alt="image" src="https://github.com/user-attachments/assets/d6ae3278-9fe5-41e6-98a1-f303e47c4ed2" /> -->
+
+<img alt="seasonality" src="https://github.com/user-attachments/assets/6857fa26-17ed-4ed3-9892-6e35ea462dc6" />
 
 
 ## Product Trends
 - <b> Best Performing Products </b>: The 27in 4K Monitor and AirPods were the top two products by sales, generating $9.9M and $7.7M respectively and together accounting for ~63% of total sales across 2019-2022.
 - <b> Order Volume </b>: AirPods led in terms of order volume with 48K in units, reflecting strong mid-price point demand; the 27in 4K Monitor led in sales value despite lower order volume of 23K units.
 - <b> Covid Driven Sales </b>: MacBook Air and ThinkPad saw the sharpest COVID driven sales spikes in 2020, consistent with remote work and learning demand. MacBook Air jumped from $607K in 2019 to $2.9M in 2020. Additionally, Samsung Webcam was not present in 2019 catalog, but grew steadily through 2021 ($171K), which further supports the WFH narrative.
-<img alt="Product Sales by Year" src="https://github.com/user-attachments/assets/26a7325a-5c70-4012-92dc-eb99f9d22223" />
+<img alt="product performance" src="https://github.com/user-attachments/assets/e1c4a890-56c7-4033-a667-138be5721742" />
 
 ### Refund Rates
 From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% return rate.
@@ -85,13 +87,15 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 <img width="923" height="738" alt="refund count" src="https://github.com/user-attachments/assets/7234e9c4-bef3-472f-a32b-4a4a6129da83" />
 
 ## Geographic Performance
-<img width="1216" height="735" alt="Sales by Region" src="https://github.com/user-attachments/assets/6c9e1934-9ab4-48b7-b38a-011d9ff296e0" />
+<img alt="regional performance" src="https://github.com/user-attachments/assets/8ab43fd5-4112-4f66-b81d-434f20273581" />
+
 
 - <b> Top Performing Region</b>: North America was the top region by sales at $14.6M across 56K orders.
 - <b> Top Performing Country</b>: The US was the dominant market by a significant margin, generating $13.3M in sales, which accounts for 47% of total sales across 2019-2022. It's also more than 6x the next highest country (GB at $2.1M).
 - <b> Smallest Performing Region</b>: LATAM was the smallest region by sales but showed proportional growth during 2020 which was consistent with other regions. It suggests that baseline demand exists and could be further developed with region specific marketing or pricing strategies.
 
-<div align="center"><img alt="Sales by countries" src="https://github.com/user-attachments/assets/9c6c93f7-f617-4295-8145-a44b20c4d14d" width="50%" /> </div>
+
+<img alt="top 10 countries" src="https://github.com/user-attachments/assets/20257684-204a-45e2-b1b9-7c649c3dd071" />
 
 
 ## Loyalty Program
@@ -100,7 +104,7 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> AOV Shift</b>:In the early years (2019–2020), non-members outspent members on a per-order basis — non-member AOV peaked at $346 in 2020 compared to $228 for members, indicating the program was not yet driving higher-value purchases. By 2022, the dynamic had flipped — member AOV ($245) surpassed non-member AOV ($215) for the first time, suggesting the program began attracting or retaining higher-value customers as it matured.
 - <b> Sales Composition</b>:Non-member sales dominated total sales through 2020 ($7.2M vs $3.0M for members) but member sales overtook non-members by 2021 ($4.9M vs $4.3M), marking a structural shift in where revenue was coming from.
 
-<img width="1019" height="738" alt="Loyalty Program" src="https://github.com/user-attachments/assets/d6c8e375-6e70-4f20-ae01-007078e95a66" />
+<img alt="loyalty" src="https://github.com/user-attachments/assets/1e15ee6c-0a84-4955-9ca3-262ebbf9b42e" />
 
 ## Marketing Channel Effectiveness
 <img alt="image" src="https://github.com/user-attachments/assets/36cf01e1-2b70-480a-b5de-105a0e0bf8a6" />
