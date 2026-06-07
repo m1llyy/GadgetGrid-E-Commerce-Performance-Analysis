@@ -43,9 +43,16 @@ GadgetGrid's primary measure of success is <b> total revenue </b> in USD. Suppor
 
 # Overview
 ## Executive Summary
-This project analyzes four years of e-commerce sales data (2019–2022) for GadgetGrid, a consumer electronics retailer serving 194 countries. Using Excel for data cleaning and exploration, SQL for querying and aggregating the dataset, and Tableau for visualization, the analysis examines sales trends, product performance, geographic performance, loyalty program effectiveness, and marketing channel contribution.
+This project analyzes four years of e-commerce sales data (2019–2022) for GadgetGrid, a consumer electronics retailer serving 194 countries, spanning 108K+ transactions and $28.1M in total sales. Using Excel, SQL, and Tableau to surface insights across sales trends, product performance, geography, loyalty program, and marketing channels.
 
-Total sales reached $28.1M across 108K+ orders over the four-year period. The most significant trend was the 163% revenue spike in 2020 driven by pandemic-fueled demand for electronics and WFH peripherals, followed by a normalization back toward pre-COVID levels by 2022. The 27in 4K Monitor and AirPods were the top performing products, together accounting for ~63% of total sales. The loyalty program showed promising maturation with member order share growing from 12% in 2019 to 52% by 2022, and North America remained the dominant region at $14.6M, though demand signals across EMEA, APAC, and LATAM suggest international growth opportunities exist.
+Key findings:
+- Sales peaked in 2020 at $10.2M — a 163% YoY spike driven by pandemic demand for WFH electronics — before declining 52% by 2022
+- Two products dominate — the 27in 4K Monitor and AirPods together account for ~63% of total sales; laptops carry the highest refund rates (11–12%)
+- North America drives 52% of sales at $14.6M, with the US alone at 47% — significant geographic concentration risk
+- Loyalty program is maturing — member order share grew from 12% to 52% between 2019–2022, with member AOV surpassing non-members for the first time in 2022
+- Direct channel dominates at 83% of sales, though this likely reflects attribution gaps rather than true direct intent; email is the fastest growing channel at 5.8x order growth
+
+
 
 ## Dataset Structure
 <img alt="image" src="https://github.com/user-attachments/assets/83ebf555-ba84-4227-b774-54d358ac6caf" />
@@ -59,7 +66,7 @@ Total sales reached $28.1M across 108K+ orders over the four-year period. The mo
 - <b> COVID (2020) </b>: Order volume doubled to 33.8K with AOV peaking at $300, reflecting a shift towards higher-ticket purchases.
 - <b> Post-COVID (2021-2022) </b>: While sales in 2021 remained high, there was a steady decline with an AOV of $255. In 2022, sales declined 52% from peak, normalizing towards pre-pandemic levels with $5M in sales and an AOV of $230.   
 
-<img alt="image" src="https://github.com/user-attachments/assets/28329376-4658-4f11-9bcd-1094b8f228a4" />
+<img alt="sales orders aov" src="https://github.com/user-attachments/assets/b3fbdb11-4ea4-4110-aa96-8924408d1203" />
 
 
 ## Seasonality Trends
