@@ -1,4 +1,14 @@
 -- Adhoc questions and queries
+-- Purchase Frequency
+SELECT 
+    loyalty_program,
+    COUNT(DISTINCT customer_id) as unique_customers,
+    COUNT(o.id) as total_orders,
+    ROUND(COUNT(o.id) * 1.0 / COUNT(DISTINCT c.id), 2) as orders_per_customer
+FROM core.orders as o
+INNER JOIN core.customers as c ON c.id = o.customer_id
+GROUP BY loyalty_program
+ORDER BY loyalty_program
 
 -- What is the date of the earliest and latest order?
 SELECT MAX (purchase_ts) AS latest, MIN (purchase_ts) AS earliest
