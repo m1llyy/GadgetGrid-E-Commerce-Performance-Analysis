@@ -91,7 +91,8 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> Highest Refund Volume </b>: AirPods had the highest refund volume at 2.6K units, followed by the 27in 4K gaming monitor at 1.4K units.
 - <b> Lowest Refund Volume </b>: Samsung Cable had the cleanest refund rate at 2.4% which is consistent with low-complexity and low-price-point, carrying a lower return risk. 
 
-<img alt="refund" src="https://github.com/user-attachments/assets/3fe4812c-400c-40f2-b2dd-ee1740cb930a" />
+<img alt="refund" src="https://github.com/user-attachments/assets/015e7771-b4d2-413b-8c5f-a9b2a02e8209" />
+
 
 ## Geographic Performance
 <img alt="region" src="https://github.com/user-attachments/assets/f6f7ed92-bfd2-45f9-bc5b-b751e42727e4" />
@@ -139,7 +140,8 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
  
 ## Loyalty Program
 - <b> Continue the Program for at Least Another Year </b>: Membership grew from 12% to 52% of total orders between 2019 and 2022, and member sales overtook non-member sales by 2021. For the first time in 2022, members outspent non-members per order. Ultimately, the trajectory is storng but one year isn't a trend yet.
-- <b> Investigate the AOV Gap </b>: For three out of four years, non-members outspent members on a per order basis, which may suggest loyalty members are leveraging rewards or discount or offset the price. It's worth understanding whether members are actually spending more or just using disocunts to pay less. 
+- <b> Investigate the AOV Gap </b>: For three out of four years, non-members outspent members on a per order basis, which may suggest loyalty members are leveraging rewards or discount or offset the price. It's worth understanding whether members are actually spending more or just using disocunts to pay less.
+- <b> Invest in Email to Drive Membership Growth </b>: Email is the only channel where members outnumber non-members, accounting for 60% of email acquired customers. If growing the loyalty program is a priority, scaling email makes the most sense. 
 
 ## Marketing Channels
 - <b> Invest further in email</b>: Email was the fastest growing channel, expanding 5.8x in order volume from 2019 to 2021. It also maintained a consistent AOV around $180, making it a reliable and likely cost-efficient channel worth scaling.
