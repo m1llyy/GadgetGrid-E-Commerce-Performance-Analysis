@@ -113,6 +113,16 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 
 <img alt="loyalty" src="https://github.com/user-attachments/assets/c8e0e22a-0822-4376-92da-cc931f8fb1af" />
 
+### Further Analysis
+- <b> Channel Acquisition </b>: Email was the only channel where loyalty members outnumber non-members with 10.8K vs 7.7K, accounting for 60% of email acquired customers. Every other channel skews non-member. This suggests email is the strongest loyalty acquisition channel and scaling it would likely drive membership growth.
+<img alt="loyaltymarketing" src="https://github.com/user-attachments/assets/5ce23a53-4a55-4e8c-a85c-f3b8fd46bca0" />
+
+- <b> Product Mix </b>: As the loyalty program matured, members went from accounting for roughly 10% of AirPods and Monitor sales in 2019 to over 50% in 2022. These 2 products drive the most revenue for GadgetGrid. On the other side, non-member dominated Macbook Air and Samsung Cable the entire time. This lines up with the AOV shift in 2022 where members aren't just spending more, they're increasingly buying the products that matter most to the business.
+<img alt="member share" src="https://github.com/user-attachments/assets/29609fad-56ff-4a24-98d6-ab5553b27ff8" />
+
+
+- <b> Purchase Frequency </b>: Orders per customer across both groups were ~1.2, suggesting the loyalty program isn't driving meaningful repeat behavior. The program's current value appears to lie more in acquisition and spend patterns than in retention. 
+
 
 ## Marketing Channel Effectiveness
 <img alt="marketing" src="https://github.com/user-attachments/assets/c5641e23-9053-43a3-a8b0-afb678c15f1a" />
