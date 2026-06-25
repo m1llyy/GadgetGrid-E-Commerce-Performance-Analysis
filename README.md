@@ -66,7 +66,7 @@ Key findings:
 - <b> COVID (2020) </b>: Order volume doubled to 33.8K with AOV peaking at $300, reflecting a shift towards higher-ticket purchases.
 - <b> Post-COVID (2021-2022) </b>: While sales in 2021 remained high, there was a steady decline with an AOV of $255. In 2022, sales declined 52% from peak, normalizing towards pre-pandemic levels with $5M in sales and an AOV of $230.   
 
-<img alt="sales orders aov" src="https://github.com/user-attachments/assets/b3fbdb11-4ea4-4110-aa96-8924408d1203" />
+<img alt="sales orders aov" src="https://github.com/user-attachments/assets/99343937-a0fe-4edd-88a8-74c6f079e3dc" />
 
 
 ## Seasonality Trends
@@ -76,14 +76,15 @@ Key findings:
 - Worst Performing Months: Feburary is around the lowest or near lowest every year, suggesting a post-holiday hangover. 
 <!-- <img alt="image" src="https://github.com/user-attachments/assets/d6ae3278-9fe5-41e6-98a1-f303e47c4ed2" /> -->
 
-<img alt="seasonality" src="https://github.com/user-attachments/assets/4b7493de-0115-413c-b2cb-ce506c845a4c" />
+<img alt="seasonality" src="https://github.com/user-attachments/assets/cbe4c16d-7809-4be4-a76f-67b45ca29c18" />
 
 
 ## Product Trends
 - <b> Best Performing Products </b>: The 27in 4K Monitor and AirPods were the top two products by sales, generating $9.9M and $7.7M respectively and together accounting for ~63% of total sales across 2019-2022.
 - <b> Order Volume </b>: AirPods led in terms of order volume with 48K in units, reflecting strong mid-price point demand; the 27in 4K Monitor led in sales value despite lower order volume of 23K units.
 - <b> Covid Driven Sales </b>: MacBook Air and ThinkPad saw the sharpest COVID driven sales spikes in 2020, consistent with remote work and learning demand. MacBook Air jumped from $607K in 2019 to $2.9M in 2020. Additionally, Samsung Webcam was not present in 2019 catalog, but grew steadily through 2021 ($171K), which further supports the WFH narrative.
-<img alt="product performance" src="https://github.com/user-attachments/assets/56b6a064-8e34-441e-bf8c-4159f35e56a7" />
+<img alt="product performance" src="https://github.com/user-attachments/assets/1c899fe5-a6c1-4629-ab73-702bbb25cff5" />
+
 
 ### Refund Rates
 From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% return rate.
@@ -91,19 +92,17 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> Highest Refund Volume </b>: AirPods had the highest refund volume at 2.6K units, followed by the 27in 4K gaming monitor at 1.4K units.
 - <b> Lowest Refund Volume </b>: Samsung Cable had the cleanest refund rate at 2.4% which is consistent with low-complexity and low-price-point, carrying a lower return risk. 
 
-<img alt="refund" src="https://github.com/user-attachments/assets/015e7771-b4d2-413b-8c5f-a9b2a02e8209" />
+<img alt="Refund Rate" src="https://github.com/user-attachments/assets/16799467-fa87-4692-ab21-838d25fb1e7b" />
 
 
 ## Geographic Performance
-<img alt="region" src="https://github.com/user-attachments/assets/f6f7ed92-bfd2-45f9-bc5b-b751e42727e4" />
+<img alt="region" src="https://github.com/user-attachments/assets/c3bef42b-8aa8-4c57-bb65-dbe510c1d0c4" />
 
 
 - <b> Top Performing Region</b>: North America was the top region by sales at $14.6M across 56K orders.
 - <b> Top Performing Country</b>: The US was the dominant market by a significant margin, generating $13.3M in sales, which accounts for 47% of total sales across 2019-2022. It's also more than 6x the next highest country (GB at $2.1M).
 - <b> Smallest Performing Region</b>: LATAM was the smallest region by sales but showed proportional growth during 2020 which was consistent with other regions. It suggests that baseline demand exists and could be further developed with region specific marketing or pricing strategies.
-
-
-<img alt="top 10 countries" src="https://github.com/user-attachments/assets/fe436567-c00a-4523-8455-ca0c875f99cb" />
+<img alt="top 10 countries" src="https://github.com/user-attachments/assets/f78a7bf1-b2b7-4c37-89b9-0a0e03101465" />
 
 
 ## Loyalty Program
@@ -112,21 +111,23 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> AOV Shift</b>:In the early years (2019–2020), non-members outspent members on a per-order basis — non-member AOV peaked at $346 in 2020 compared to $228 for members, indicating the program was not yet driving higher-value purchases. By 2022, the dynamic had flipped — member AOV ($245) surpassed non-member AOV ($215) for the first time, suggesting the program began attracting or retaining higher-value customers as it matured.
 - <b> Sales Composition</b>:Non-member sales dominated total sales through 2020 ($7.2M vs $3.0M for members) but member sales overtook non-members by 2021 ($4.9M vs $4.3M), marking a structural shift in where revenue was coming from.
 
-<img alt="loyalty" src="https://github.com/user-attachments/assets/c8e0e22a-0822-4376-92da-cc931f8fb1af" />
+<img alt="Loyalty Program" src="https://github.com/user-attachments/assets/d6fdee40-4737-4d21-a9c5-38b7e8061151" />
+
 
 ### Further Analysis
 - <b> Channel Acquisition </b>: Email was the only channel where loyalty members outnumber non-members with 10.8K vs 7.7K, accounting for 60% of email acquired customers. Every other channel skews non-member. This suggests email is the strongest loyalty acquisition channel and scaling it would likely drive membership growth.
-<img alt="loyaltymarketing" src="https://github.com/user-attachments/assets/5ce23a53-4a55-4e8c-a85c-f3b8fd46bca0" />
+<img alt="loyalty marketing" src="https://github.com/user-attachments/assets/033694fa-0759-4f3f-989c-bbc16c363a28" />
+
 
 - <b> Product Mix </b>: As the loyalty program matured, members went from accounting for roughly 10% of AirPods and Monitor sales in 2019 to over 50% in 2022. These 2 products drive the most revenue for GadgetGrid. On the other side, non-member dominated Macbook Air and Samsung Cable the entire time. This lines up with the AOV shift in 2022 where members aren't just spending more, they're increasingly buying the products that matter most to the business.
-<img alt="member share" src="https://github.com/user-attachments/assets/29609fad-56ff-4a24-98d6-ab5553b27ff8" />
+<img alt="member share" src="https://github.com/user-attachments/assets/9e293728-8a2f-422c-a628-a41b3ce2c2f4" />
 
 
 - <b> Purchase Frequency </b>: Orders per customer across both groups were ~1.2, suggesting the loyalty program isn't driving meaningful repeat behavior. The program's current value appears to lie more in acquisition and spend patterns than in retention. 
 
 
 ## Marketing Channel Effectiveness
-<img alt="marketing" src="https://github.com/user-attachments/assets/c5641e23-9053-43a3-a8b0-afb678c15f1a" />
+<img alt="marketing channel" src="https://github.com/user-attachments/assets/a36aba45-2389-468b-8463-1ab942fbe92e" />
 
 - <b> Dominant Channel</b>: Direct was the dominant marketing channel with $23.2M in sales and accounts for 83% of total sales. However, this figure deserves a closer look - an 83% direct attribution rate is unusually high and may reflect gaps in UTM tracking rather than true direct intent. This potentially masks the real contribution of other channels
 - <b> Highest AOV Channel </b>: Affiliate had the highest AOV of $347 in 2020, suggesting affiliate-driven customers tend to make higher-value purchases and are ready to buy.
