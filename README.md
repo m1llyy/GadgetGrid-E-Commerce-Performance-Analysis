@@ -56,7 +56,8 @@ Key findings:
 
 ## Dataset Structure
 <img alt="image" src="https://github.com/user-attachments/assets/83ebf555-ba84-4227-b774-54d358ac6caf" />
-
+Download the full Excel file <a href="https://docs.google.com/spreadsheets/d/1Aj63R9SBPkxhMo8NtUTvP8k1w7onVZRM/edit?usp=sharing&ouid=110060741658196042398&rtpof=true&sd=true">here</a>.
+**Note:** For best experience, download the file and open in Microsoft Excel rather than Google Sheets.
 
 # Deep Dive Insights
 ## Sales Trends
