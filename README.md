@@ -134,8 +134,7 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 - <b> Fastest Growing </b>: Email was the fastest growing channel, expanding 5.8x in order volume from 2019 to 2021. With a consistent AOV around $180 and strong volume growth, it represents the most scalable and likely cost-efficient channel.
 
 
-# Recommendations
-
+<!-- # Recommendations
 ## Product
 - <b> Reevaluate the Bose Soundsport</b>: With only 27 total orders and $3,339 in sales across four years, the product failed to gain meaningful traction. Given that AirPods dominated the headphone category at 48K orders, the Soundsport may be redundant in the catalog. Discontinuing or replacing it with a more competitive audio product is worth considering.
  
@@ -153,5 +152,19 @@ From 2019-2022, 5,377 out of 108K orders were refunded, which is about a 5% retu
 
 ## Geographic Expansion
 - <b> Develop LATAM and APAC further </b>: Both regions showed proportional growth during 2020 consistent with NA and EMEA. This confirms that baseline demand exists. Localized marketing, regional pricing strategies, or partnerships could help convert that into consistent revenue. 
-- <b> Reduce geographic concentration risk </b>: The US accounts for 47% of total sales, meaning overall performance is heavily dependent on a single market. Diversifying revenue across top international markets like GB, CA, JP, and DE would reduce exposure to US-specific demand fluctuations. 
+- <b> Reduce geographic concentration risk </b>: The US accounts for 47% of total sales, meaning overall performance is heavily dependent on a single market. Diversifying revenue across top international markets like GB, CA, JP, and DE would reduce exposure to US-specific demand fluctuations. !-->
+
+# Recommendations
+
+| Recommendation | Area | Priority | Expected Impact |
+|---|---|---|---|
+| Double down on Q4 promotions | Seasonality | 🟢 High | Maximize the highest revenue window of the year. December alone hit $1.25M in 2020 |
+| Invest in email to drive membership growth | Loyalty / Marketing | 🟢 High | Email is the only channel where members out-number non-members — scaling it directly grows loyalty enrollment |
+| Continue the loyalty program | Loyalty | 🟢 High | Member order share grew from 12% to 52% and AOV flipped in 2022. Momentum is worth sustaining |
+| Investigate the AOV gap | Loyalty | 🟡 Medium | Determines whether the program drives genuine spend or discount-driven behavior. Important for evaluating true profitability |
+| Address the Q1 slump | Seasonality | 🟡 Medium | February is consistently the weakest month and targeted campaigns could recover lost revenue during the post-holiday dip |
+| Develop LATAM and APAC further | Geography | 🟡 Medium | Both regions showed proportional COVID-era growth confirming demand exists — localized strategies could unlock consistent revenue |
+| Reevaluate the Bose Soundsport | Product | 🟡 Medium | 27 orders and $3.3K in sales over four years. Catalog space could be better allocated to a more competitive audio product |
+| Reduce geographic concentration risk | Geography | 🔴 Low | US accounts for 47% of sales — diversifying across GB, CA, JP, DE reduces single-market dependency |
+| Audit direct channel attribution | Marketing | 🔴 Low | 83% direct attribution is unusually high — UTM audit could surface true channel contributions and improve budget allocation |
 
